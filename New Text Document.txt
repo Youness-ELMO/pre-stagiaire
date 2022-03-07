@@ -1,0 +1,2 @@
+ecrire un programe qui fait inserer un personne qui contient comme information nom,prenom,genre et age
+qui te donne en premier de donner le nombre d'insertion 
